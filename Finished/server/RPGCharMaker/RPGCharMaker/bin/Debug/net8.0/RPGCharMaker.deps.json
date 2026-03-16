@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RPGCharMaker/1.0.0": {
+        "runtime": {
+          "RPGCharMaker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPGCharMaker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

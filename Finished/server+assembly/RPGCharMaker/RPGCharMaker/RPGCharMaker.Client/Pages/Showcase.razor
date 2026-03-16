@@ -1,0 +1,70 @@
+@page "/showcase"
+@rendermode InteractiveAuto
+
+<h3>Your Saved Characters: @Cards.Roster.Count</h3>
+<hr class="underline">
+
+<div class="show">
+    <div class="list">
+        @if (Cards.Roster.Count == 0)
+        {
+            <p class="note">No one is there yet.</p>
+        }
+        else
+        {
+            <div class="char_panel">
+                @foreach (var character in Cards.Roster)
+                {
+                    <div class="char_block" style="border: @(selectedCharacter == character? "2px solid #007bff" : "1px solid #ccc");" @onclick="() => SelectChar(character)">
+                        <h4 class="char_name">@character.Name</h4>
+                        <p class="char_class">@character.Class</p>
+                        <button class="button_del" @onclick="() => DeleteChar(character)" @onclick:stopPropagation="true">Delete</button>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+
+    <div class="details">
+        @if (selectedCharacter == null)
+        {
+            <div class="detail_null">
+                <p>Select a character from the list to see details.</p>
+            </div>
+        }
+        else
+        {
+            <div class="detail_card">
+                <h2 class="detail_name">@selectedCharacter.Name</h2>
+                <p class="detail_class">@selectedCharacter.Class</p>
+                <hr>
+                <h4 class="h4">Character Stats</h4>
+                <div class="detail_stats">
+                    <p class="stat">&#128170; Strenght: <strong>@selectedCharacter.Str</strong></p>
+                    <p class="stat">&#128075; Dexterity: <strong>@selectedCharacter.Dex</strong></p>
+                    <p class="stat">&#x1f56e; Inteligence: <strong>@selectedCharacter.Int</strong></p>
+                </div>
+            </div>
+        }
+    </div>
+
+</div>
+
+@code {
+    private CharCard? selectedCharacter;
+
+    private void SelectChar(CharCard character)
+    {
+        selectedCharacter = character;
+    }
+
+    private void DeleteChar(CharCard characterToRemove)
+    {
+        Cards.Roster.Remove(characterToRemove);
+        
+        if (selectedCharacter == characterToRemove)
+        {
+            selectedCharacter = null;
+        }
+    }
+}

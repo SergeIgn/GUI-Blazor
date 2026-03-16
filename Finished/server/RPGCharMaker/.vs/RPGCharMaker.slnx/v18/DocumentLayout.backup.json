@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\RPGCharMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22402D60-B2F2-483D-9FD7-EEBF6739EE87}|RPGCharMaker\\RPGCharMaker.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\rpgcharmaker\\rpgcharmaker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22402D60-B2F2-483D-9FD7-EEBF6739EE87}|RPGCharMaker\\RPGCharMaker.csproj|solutionrelative:rpgcharmaker\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22402D60-B2F2-483D-9FD7-EEBF6739EE87}|RPGCharMaker\\RPGCharMaker.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\rpgcharmaker\\rpgcharmaker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22402D60-B2F2-483D-9FD7-EEBF6739EE87}|RPGCharMaker\\RPGCharMaker.csproj|solutionrelative:rpgcharmaker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\RPGCharMaker\\RPGCharMaker\\Components\\App.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\RPGCharMaker\\RPGCharMaker\\Components\\App.razor",
+              "RelativeToolTip": "RPGCharMaker\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T16:51:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "RPGCharMaker\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T16:43:05.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E67B5B-02CB-44A0-AE38-6C9879125B4D}|RPGCharMaker\\RPGCharMaker\\RPGCharMaker.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\server\u002Bassembly\\rpgcharmaker\\rpgcharmaker\\rpgcharmaker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E67B5B-02CB-44A0-AE38-6C9879125B4D}|RPGCharMaker\\RPGCharMaker\\RPGCharMaker.csproj|solutionrelative:rpgcharmaker\\rpgcharmaker\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E67B5B-02CB-44A0-AE38-6C9879125B4D}|RPGCharMaker\\RPGCharMaker\\RPGCharMaker.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\server\u002Bassembly\\rpgcharmaker\\rpgcharmaker\\rpgcharmaker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0E67B5B-02CB-44A0-AE38-6C9879125B4D}|RPGCharMaker\\RPGCharMaker\\RPGCharMaker.csproj|solutionrelative:rpgcharmaker\\rpgcharmaker\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF407AA1-0AB4-491E-B545-0DAEE42CB3F7}|RPGCharMaker\\RPGCharMaker.Client\\RPGCharMaker.Client.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\server\u002Bassembly\\rpgcharmaker\\rpgcharmaker\\rpgcharmaker.client\\pages\\showcase.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF407AA1-0AB4-491E-B545-0DAEE42CB3F7}|RPGCharMaker\\RPGCharMaker.Client\\RPGCharMaker.Client.csproj|solutionrelative:rpgcharmaker\\rpgcharmaker.client\\pages\\showcase.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF407AA1-0AB4-491E-B545-0DAEE42CB3F7}|RPGCharMaker\\RPGCharMaker.Client\\RPGCharMaker.Client.csproj|c:\\users\\lenovo\\desktop\\c#\\gui\\server\u002Bassembly\\rpgcharmaker\\rpgcharmaker\\rpgcharmaker.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF407AA1-0AB4-491E-B545-0DAEE42CB3F7}|RPGCharMaker\\RPGCharMaker.Client\\RPGCharMaker.Client.csproj|solutionrelative:rpgcharmaker\\rpgcharmaker.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\RPGCharMaker\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker\\Components\\Routes.razor",
+              "RelativeToolTip": "RPGCharMaker\\RPGCharMaker\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T17:32:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "RPGCharMaker\\RPGCharMaker\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T17:30:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Showcase.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker.Client\\Pages\\Showcase.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\RPGCharMaker.Client\\Pages\\Showcase.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker.Client\\Pages\\Showcase.razor",
+              "RelativeToolTip": "RPGCharMaker\\RPGCharMaker.Client\\Pages\\Showcase.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T17:30:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RPGCharMaker\\RPGCharMaker.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GUI\\server\u002Bassembly\\RPGCharMaker\\RPGCharMaker\\RPGCharMaker.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "RPGCharMaker\\RPGCharMaker.Client\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T17:29:49.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

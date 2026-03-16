@@ -1,0 +1,50 @@
+.container[b-urj3ljme0x] {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.create[b-urj3ljme0x] {
+    min-width: 300px;
+}
+.name_block[b-urj3ljme0x] {
+    margin-bottom: 15px;
+}
+.stats_block[b-urj3ljme0x] {
+    margin-bottom: 15px;
+}
+.point_block[b-urj3ljme0x] {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+}
+.show[b-urj3ljme0x] {
+    border: 2px solid #2c3e50;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+.show_name[b-urj3ljme0x] {
+    text-align: center;
+    margin-top: 0;
+}
+.show_class[b-urj3ljme0x] {
+    text-align: center;
+    color: gray;
+    font-style: italic;
+}
+.button_save[b-urj3ljme0x] {
+    width: 100%;
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.error_mes[b-urj3ljme0x] {
+    color: red;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}

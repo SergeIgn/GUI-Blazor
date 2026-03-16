@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RPGCharMaker/RPGCharMaker.Client/RPGCharMaker.Client.csproj" />
+  <Project Path="RPGCharMaker/RPGCharMaker/RPGCharMaker.csproj" />
+</Solution>
